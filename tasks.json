@@ -1,0 +1,9 @@
+{
+  "2025-05-18": {
+    "1": { "id": 1, "description": "Learn Java File IO", "status": "TODO", "createdDate": "2025-05-18" },
+    "2": { "id": 2, "description": "Completed saving", "status": "DONE", "createdDate": "2025-05-18" },
+    "3": { "id": 3, "description": "Learn Java", "status": "TODO", "createdDate": "2025-05-18" },
+    "4": { "id": 4, "description": "Write Report", "status": "IN_PROGRESS", "createdDate": "2025-05-18" },
+    "5": { "id": 5, "description": "Submit Assignment", "status": "DONE", "createdDate": "2025-05-18" }
+  }
+}
