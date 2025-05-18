@@ -1,0 +1,8 @@
+task-cli> add 0 Learn Java File IO
+task-cli> add 1 Start Project Report
+task-cli> list
+task-cli> list done
+task-cli> list todo
+task-cli> mark-done 1
+task-cli> mark-in-progress 2
+task-cli> delete 1
